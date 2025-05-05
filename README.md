@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi my name is Nurudeen Olayiwola
 
-<!--
-**Arab45/Arab45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+### 🚀 Experienced React Native Developer Ready to Elevate Your Team 🚀 Specializing in cross-platform app development for iOS and Android using React Native.
+### 🚀 Experienced Backend Developer with the stack of JavaScript/TypeScript, NodeJs, (ExpressJs & NestJs) Ready to Elevate Your Team 🚀
+- 🌍  I'm based in Lagos
+- 🤝  I'm open to collaborating on Fintech, Ecommerce, B2B.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # Skills
+  - **Language**: Javascript | Typescript
+  - **Frameworks**: Tailwind CSS | React Native | NodeJs | (ExpressJs & NestJs)
+  - **Database**: MongoDB | GraghQL
+  - **Tools**: Git | VsCode 
