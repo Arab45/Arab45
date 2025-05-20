@@ -10,5 +10,5 @@
   # Skills
   - **Language**: Javascript | Typescript
   - **Frameworks**: Tailwind CSS | React Native | NodeJs | (ExpressJs & NestJs)
-  - **Database**: MongoDB | GraghQL
+  - **Database**: MongoDB | TypeORM
   - **Tools**: Git | VsCode 
