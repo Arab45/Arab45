@@ -8,7 +8,7 @@
 - 🤝  I'm open to collaborating on Fintech, Ecommerce, B2B.
 
   # Skills
-  - **Language**: Javascript | Typescript
-  - **Frameworks**: Tailwind CSS | React Native | NodeJs | (ExpressJs & NestJs)
-  - **Database**: MongoDB | TypeORM
-  - **Tools**: Git | VsCode 
+  - **Language**: Javascript | Typescript | GO | Kotlin
+  - **Frameworks**: Tailwind CSS | React Native | NodeJs | (ExpressJs & NestJs) | GIN
+  - **Database**: MongoDB | TypeORM | PostgrelSql
+  - **Tools**: Git | VsCode | Linux
