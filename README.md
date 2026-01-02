@@ -9,6 +9,6 @@
 
   # Skills
   - **Language**: Javascript | Typescript | GO | Kotlin
-  - **Frameworks**: Tailwind CSS | React Native | NodeJs | (ExpressJs & NestJs) | GIN
+  - **Frameworks**: Tailwind CSS | React Native | NodeJs | (ExpressJs & NestJs) | GO & GIN
   - **Database**: MongoDB | TypeORM | PostgrelSql
   - **Tools**: Git | VsCode | Linux
