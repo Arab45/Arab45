@@ -1,4 +1,4 @@
-# Hi my name is Nurudeen Olayiwola
+# Hi my name is Olayiwola Nurudeen
 
 ## About Me
 
